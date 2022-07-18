@@ -5,9 +5,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  align-items: center;
+  max-width: 960px;
+  margin: auto;
+  border-style: solid;
+  margin-top: 25px;
+  margin-bottom: 75px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h3{
+  color: blueviolet;
 }
